@@ -5,11 +5,13 @@ description: RealWear Explorer is a tool that mirrors the screen of your RealWea
 
 # RealWear Explorer
 
-:::caution RealWear Explorer is deprecated
+:::danger RealWear Explorer Discontinued
 
-As of October 18th 2023, RealWear Explorer is now deprecated. The software will continue to operate but will no longer be receiving any updates.
+As of November 1st 2024, RealWear Explorer is no longer available.
 
-If you want to share your RealWear screen, we recommend switching to [Vysor](https://www.vysor.io).
+This tool was deprecated on October 18th 2023, and no updates will be provided.
+
+For RealWear screen sharing, we recommend switching to Vysor.
 
 This page is no longer maintained.
 

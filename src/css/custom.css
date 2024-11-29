@@ -1,0 +1,151 @@
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+/* You can override the default Infima variables here. */
+:root {
+  --ifm-color-primary: #186258;
+  --ifm-color-primary-dark: #16584f;
+  --ifm-color-primary-darker: #14534b;
+  --ifm-color-primary-darkest: #11453e;
+  --ifm-color-primary-light: #1a6c61;
+  --ifm-color-primary-lighter: #1c7165;
+  --ifm-color-primary-lightest: #1f7f72;
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+
+  --aa-primary-color-rgb: 24, 98, 88 !important;
+  --aa-muted-color-rgb: 24, 98, 88 !important;
+}
+
+/* For readability concerns, you should choose a lighter palette in dark mode. */
+[data-theme='dark'] {
+  --ifm-color-primary: #39EAD3;
+  --ifm-color-primary-dark: #00BAA5;
+  --ifm-color-primary-darker: #008C79;
+  --ifm-color-primary-darkest: #040505;
+  --ifm-color-primary-light: #4fe6d2;
+  --ifm-color-primary-lighter: #80e8da;
+  --ifm-color-primary-lightest: #9ce7dd;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+
+  --aa-primary-color-rgb: 57, 234, 211 !important;
+  --aa-muted-color-rgb: 57, 234, 211 !important;
+}
+
+img.logo {
+  height: 34px;
+  margin: 6px 12px;
+  width: 44px;
+  overflow: hidden;
+  object-fit: cover;
+  object-position: left;
+}
+
+img[alt=html1],
+img[alt=html5],
+img[alt=html6a],
+img[alt=html8],
+img[alt=html10a] {
+  width: 550px;
+}
+
+img[alt=android],
+img[alt=html2],
+img[alt=html4-1],
+img[alt=html7],
+img[alt=html9],
+img[alt=html11] {
+  width: 300px;
+}
+
+img[alt=cordova] {
+  width: 200px;
+  height: 200px;
+}
+
+img[alt=thermal-camera-1] {
+  width: 50px;
+  height: 50px;
+}
+
+img[alt=thermal-camera-ex] {
+  width: 300px;
+  height: 169px;
+}
+
+/* Markdown */
+
+.markdown>h2 {
+  color: var(--ifm-color-primary-dark);
+  border-top: var(--ifm-color-emphasis-300) 1px solid;
+  padding-top: calc(var(--ifm-h2-vertical-rhythm-top) * var(--ifm-leading));
+}
+
+.markdown>h1+h2:first-of-type {
+  border-top: none;
+  padding-top: unset;
+}
+
+.markdown>h3 {
+  border-top: var(--ifm-color-emphasis-100) 1px dashed;
+  padding-top: calc(var(--ifm-h3-vertical-rhythm-top) * var(--ifm-leading));
+}
+
+.markdown>h4 {
+  color: var(--ifm-color-primary-light);
+}
+
+/* For before/after comparison image tables */
+.markdown > table tr:nth-child(1) td:nth-child(2):last-child:has(img) {
+  width: 50%;
+}
+
+.markdown > ol li::marker,
+.markdown > ul li::marker,
+.markdown > ol li p:first-child strong {
+    color: var(--ifm-color-primary-light);
+}
+
+.markdown > ol > li {
+  margin: 0 0 var(--ifm-list-paragraph-margin);
+}
+
+.markdown > ol > li > * {
+  margin: 0 0 calc(var(--ifm-list-paragraph-margin) / 2);
+}
+
+.markdown > ol > li > p:last-child {
+  margin-bottom: var(--ifm-list-paragraph-margin) ;
+}
+
+.markdown > ol ol {
+  list-style: lower-alpha;
+}
+
+.markdown > ul img,
+.markdown > ol img {
+  max-width: 75%;
+}
+
+.markdown > code {
+  padding: 0.5rem;
+}
+
+.markdown p > code,
+.markdown li > code {
+  display: inline-block;
+  padding: 0 0.2rem;
+  vertical-align: top;
+}
+
+.markdown code {
+  padding: 0.5rem;
+}
+
+/* Sidebar */
+.hidden {
+  display: none !important;
+}

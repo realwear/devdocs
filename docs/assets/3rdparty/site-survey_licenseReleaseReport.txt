@@ -1,0 +1,130 @@
+Notice for packages
+
+
+Android AppCompat Library v7 (28.0.0) - The Apache Software License
+The Support Library is a static library that you can add to your Android application in order to use APIs that are either not available for older platform versions or utility APIs that aren't a part of the framework APIs. Compatible on devices running API 14 or later.
+http://developer.android.com/tools/extras/support-library.html
+
+Android Arch-Common (1.1.1) - The Apache Software License, Version 2.0
+Android Arch-Common
+https://developer.android.com/topic/libraries/architecture/index.html
+
+Android Arch-Runtime (1.1.1) - The Apache Software License, Version 2.0
+Android Arch-Runtime
+https://developer.android.com/topic/libraries/architecture/index.html
+
+Android ConstraintLayout (2.0.4) - The Apache Software License, Version 2.0
+ConstraintLayout for Android
+http://tools.android.com
+
+Android ConstraintLayout Solver (2.0.4) - The Apache Software License, Version 2.0
+Solver for ConstraintLayout
+http://tools.android.com
+
+Android Lifecycle LiveData (1.1.1) - The Apache Software License, Version 2.0
+Android Lifecycle LiveData
+https://developer.android.com/topic/libraries/architecture/index.html
+
+Android Lifecycle LiveData Core (1.1.1) - The Apache Software License, Version 2.0
+Android Lifecycle LiveData Core
+https://developer.android.com/topic/libraries/architecture/index.html
+
+Android Lifecycle Runtime (1.1.1) - The Apache Software License, Version 2.0
+Android Lifecycle Runtime
+https://developer.android.com/topic/libraries/architecture/index.html
+
+Android Lifecycle ViewModel (1.1.1) - The Apache Software License, Version 2.0
+Android Lifecycle ViewModel
+https://developer.android.com/topic/libraries/architecture/index.html
+
+Android Lifecycle-Common (1.1.1) - The Apache Software License, Version 2.0
+Android Lifecycle-Common
+https://developer.android.com/topic/libraries/architecture/index.html
+
+Android Support AnimatedVectorDrawable (28.0.0) - The Apache Software License
+Android Support AnimatedVectorDrawable
+http://developer.android.com/tools/extras/support-library.html
+
+Android Support Library Annotations (28.0.0) - The Apache Software License
+The Support Library is a static library that you can add to your Android application in order to use APIs that are either not available for older platform versions or utility APIs that aren't a part of the framework APIs.
+http://developer.android.com/tools/extras/support-library.html
+
+Android Support Library Async Layout Inflater (28.0.0) - The Apache Software License
+The Support Library is a static library that you can add to your Android application in order to use APIs that are either not available for older platform versions or utility APIs that aren't a part of the framework APIs. Compatible on devices running API 14 or later.
+http://developer.android.com/tools/extras/support-library.html
+
+Android Support Library collections (28.0.0) - The Apache Software License
+Standalone efficient collections.
+http://developer.android.com/tools/extras/support-library.html
+
+Android Support Library compat (28.0.0) - The Apache Software License
+The Support Library is a static library that you can add to your Android application in order to use APIs that are either not available for older platform versions or utility APIs that aren't a part of the framework APIs. Compatible on devices running API 14 or later.
+http://developer.android.com/tools/extras/support-library.html
+
+Android Support Library Coordinator Layout (28.0.0) - The Apache Software License
+The Support Library is a static library that you can add to your Android application in order to use APIs that are either not available for older platform versions or utility APIs that aren't a part of the framework APIs. Compatible on devices running API 14 or later.
+http://developer.android.com/tools/extras/support-library.html
+
+Android Support Library core UI (28.0.0) - The Apache Software License
+The Support Library is a static library that you can add to your Android application in order to use APIs that are either not available for older platform versions or utility APIs that aren't a part of the framework APIs. Compatible on devices running API 14 or later.
+http://developer.android.com/tools/extras/support-library.html
+
+Android Support Library core utils (28.0.0) - The Apache Software License
+The Support Library is a static library that you can add to your Android application in order to use APIs that are either not available for older platform versions or utility APIs that aren't a part of the framework APIs. Compatible on devices running API 14 or later.
+http://developer.android.com/tools/extras/support-library.html
+
+Android Support Library Cursor Adapter (28.0.0) - The Apache Software License
+The Support Library is a static library that you can add to your Android application in order to use APIs that are either not available for older platform versions or utility APIs that aren't a part of the framework APIs. Compatible on devices running API 14 or later.
+http://developer.android.com/tools/extras/support-library.html
+
+Android Support Library Custom View (28.0.0) - The Apache Software License
+The Support Library is a static library that you can add to your Android application in order to use APIs that are either not available for older platform versions or utility APIs that aren't a part of the framework APIs. Compatible on devices running API 14 or later.
+http://developer.android.com/tools/extras/support-library.html
+
+Android Support Library Custom View (28.0.0) - The Apache Software License
+The Support Library is a static library that you can add to your Android application in order to use APIs that are either not available for older platform versions or utility APIs that aren't a part of the framework APIs. Compatible on devices running API 14 or later.
+http://developer.android.com/tools/extras/support-library.html
+
+Android Support Library Document File (28.0.0) - The Apache Software License
+The Support Library is a static library that you can add to your Android application in order to use APIs that are either not available for older platform versions or utility APIs that aren't a part of the framework APIs. Compatible on devices running API 14 or later.
+http://developer.android.com/tools/extras/support-library.html
+
+Android Support Library Drawer Layout (28.0.0) - The Apache Software License
+The Support Library is a static library that you can add to your Android application in order to use APIs that are either not available for older platform versions or utility APIs that aren't a part of the framework APIs. Compatible on devices running API 14 or later.
+http://developer.android.com/tools/extras/support-library.html
+
+Android Support Library fragment (28.0.0) - The Apache Software License
+The Support Library is a static library that you can add to your Android application in order to use APIs that are either not available for older platform versions or utility APIs that aren't a part of the framework APIs. Compatible on devices running API 14 or later.
+http://developer.android.com/tools/extras/support-library.html
+
+Android Support Library Interpolators (28.0.0) - The Apache Software License
+The Support Library is a static library that you can add to your Android application in order to use APIs that are either not available for older platform versions or utility APIs that aren't a part of the framework APIs. Compatible on devices running API 14 or later.
+http://developer.android.com/tools/extras/support-library.html
+
+Android Support Library loader (28.0.0) - The Apache Software License
+The Support Library is a static library that you can add to your Android application in order to use APIs that are either not available for older platform versions or utility APIs that aren't a part of the framework APIs. Compatible on devices running API 14 or later.
+http://developer.android.com/tools/extras/support-library.html
+
+Android Support Library Local Broadcast Manager (28.0.0) - The Apache Software License
+The Support Library is a static library that you can add to your Android application in order to use APIs that are either not available for older platform versions or utility APIs that aren't a part of the framework APIs. Compatible on devices running API 14 or later.
+http://developer.android.com/tools/extras/support-library.html
+
+Android Support Library Print (28.0.0) - The Apache Software License
+The Support Library is a static library that you can add to your Android application in order to use APIs that are either not available for older platform versions or utility APIs that aren't a part of the framework APIs. Compatible on devices running API 14 or later.
+http://developer.android.com/tools/extras/support-library.html
+
+Android Support Library Sliding Pane Layout (28.0.0) - The Apache Software License
+The Support Library is a static library that you can add to your Android application in order to use APIs that are either not available for older platform versions or utility APIs that aren't a part of the framework APIs. Compatible on devices running API 14 or later.
+http://developer.android.com/tools/extras/support-library.html
+
+Android Support Library View Pager (28.0.0) - The Apache Software License
+The Support Library is a static library that you can add to your Android application in order to use APIs that are either not available for older platform versions or utility APIs that aren't a part of the framework APIs. Compatible on devices running API 14 or later.
+http://developer.android.com/tools/extras/support-library.html
+
+Android Support VectorDrawable (28.0.0) - The Apache Software License
+Android Support VectorDrawable
+http://developer.android.com/tools/extras/support-library.html
+
+VersionedParcelable and friends (28.0.0) - The Apache Software License
+Provides a stable but relatively compact binary serialization format that can be passed across processes or persisted safely.
+http://developer.android.com/tools/extras/support-library.html

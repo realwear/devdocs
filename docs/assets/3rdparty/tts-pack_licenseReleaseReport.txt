@@ -1,0 +1,22 @@
+Notice for packages
+
+
+IntelliJ IDEA Annotations (13.0) - The Apache Software License, Version 2.0
+A set of annotations used for code inspection support and code documentation.
+http://www.jetbrains.org
+
+Kotlin Stdlib (1.7.21) - The Apache License, Version 2.0
+Kotlin Standard Library for JVM
+https://kotlinlang.org/
+
+Kotlin Stdlib Common (1.7.21) - The Apache License, Version 2.0
+Kotlin Common Standard Library
+https://kotlinlang.org/
+
+Kotlin Stdlib Jdk7 (1.7.21) - The Apache License, Version 2.0
+Kotlin Standard Library JDK 7 extension
+https://kotlinlang.org/
+
+Kotlin Stdlib Jdk8 (1.7.21) - The Apache License, Version 2.0
+Kotlin Standard Library JDK 8 extension
+https://kotlinlang.org/

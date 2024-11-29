@@ -1,0 +1,20 @@
+.features  {
+  display: flex;
+  align-items: center;
+  padding: 2rem 0;
+  width: 100%;
+}
+
+.featureTitle {
+  /* color: var(--ifm-color-primary); */
+}
+
+.featureSvg {
+  fill: var(--ifm-color-primary-dark);
+  height: 100px;
+  width: 100px;
+}
+
+[data-theme='dark'] .featureSvg {
+  fill: var(--ifm-color-primary-light);
+}

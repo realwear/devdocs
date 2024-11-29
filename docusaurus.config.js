@@ -39,18 +39,14 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           exclude: ['./old-obsolete', './cloud'],
-          
+          editUrl: 'https://github.com/realwear/devdocs/tree/main'
         },
         blog: {
           showReadingTime: true,
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          // editUrl:
-            // 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          editUrl: 'https://github.com/realwear/devdocs/tree/main'
         },
         theme: {
-          customCss: require.resolve('./src/css/custom.css'),
-          
+          customCss: require.resolve('./src/css/custom.css')
         },
         gtag: {
           trackingID: 'G-C31XEKE65P',
@@ -104,6 +100,10 @@ const config = {
                 label: 'Twitter',
                 href: 'https://twitter.com/realwearinc',
               },
+              {
+                label: 'LinkedIn',
+                href: 'https://www.linkedin.com/company/realwear-inc/',
+              }
             ],
           },
           // {

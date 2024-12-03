@@ -1,10 +1,13 @@
 # RealWear Thermal Camera Module
 
-:::info This document provides simple reference for the RealWear Thermal camera and simple ways for you to include it in your application using the RealWear created Intents. Implementing the thermal camera in this way will not produce the same effects as using the full thermal camera SDK. We have created these Intents for you to include the thermal camera and grab snapshots in a simple way. For a deeper integration with the RealWear Thermal Camera SDK you need to contact developer@realwear.com :::
+:::info
+ This document provides simple reference for the RealWear Thermal camera and simple ways for you to include it in your application using the RealWear created Intents. Implementing the thermal camera in this way will not produce the same effects as using the full thermal camera SDK. We have created these Intents for you to include the thermal camera and grab snapshots in a simple way. For a deeper integration with the RealWear Thermal Camera SDK you need to contact developer@realwear.com 
+ :::
 
 The RealWear Navigator series of devices introduced our first more modular hardware platform design which allowed us to have the freedom to design and manufacture different hardware modules that would be part of our platform. The first of these is the Thermal Camera Module. The Thermal Camera uses technology from FLIR to give our devices industry standard Thermal Vision capabilities which you can utilise in your apps.
 
-:::danger Important Information
+:::danger
+Important Information
 As of writing, the Thermal Camera Module only supports still image capture, both inside the RealWear Camera app and within third party applications. This page will be updated if/when video support becomes available.
 :::
 

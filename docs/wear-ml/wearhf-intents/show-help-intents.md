@@ -15,7 +15,7 @@ If you do not want the Show Help button to be displayed inside your app, it is p
 
 ### Intent
 
-`com.realwear.wearhf.intent.action.SHOW_HELP_COMMAND`
+`com.realwear.wearhf.intent.action.SHOW_HELP_COMMANDS`
 
 ### Extras
 

@@ -420,22 +420,19 @@ The above example applies the directive to a TextView and specifies the 'any' mo
 
 ### 22. hf_scroll_none
 
-Turn off head-tracked scrolling for the view.
+- Turns off scrollable indicators for a scrollable view. Note that voice commands will still function.
 
 ### 23. hf_scroll_horizontal
 
-- Specifies that horizontal head-tracked scrolling should be turned on the the view, and the scrolling activity should be directed at the current UI element.
-- Only one instance of this directive should be used per screen.
+- Forces the scrollable indicators to display as a horizontal view.
 
 ### 24. hf_scroll_vertical
 
-- Specifies that vertical head-tracked scrolling should be turned on the this view, and the scrolling activity should be directed at the current UI element.
-- This is the default scroll setting if a scrollable element is discovered in the UI tree.
-- Only one instance of this directive should be used per screen.
+- Forces the scrollable indicators to display as a vertical view.
 
 ### 25. hf_no_ptt_home
 
-- Turn off the default behavior for the current screen for the action button.
+- Turns off the default behavior for the current screen for the action button.
 - Under normal use pressing the action button will automatically switch to the Home Screen. However, this directive disables this behavior for the current screen, allowing an application to make full use of the action button itself.
 - The action button is used as a standard key press/release of key code = 500
 - Only one instance of this directive should be used per screen.
